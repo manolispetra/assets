@@ -1,0 +1,26 @@
+{
+	"name": "FIRE",
+	"website": "https://firedefi.xyz/",
+	"source_code": "https://tronscan.io/#/contract/TAX69xqB7WbJj2co4njM1uMG1CWe4V3aDr/code",
+	"white_paper": "https://drive.google.com/view",
+	"short_description": "FireDefi is a crypto Defi protocol that allows users to benet from full transparency and total control over their trading experience.
+
+",
+	"description": ".",
+	"socials": [
+		{
+			"name": "Instagram",
+			"url": "https://www.instagram.com/FireDefi/",
+			"handle": "firedefi"
+		},
+		{
+			"name": "Telegram",
+			"url": "https://t.me/FireDefi",
+			"handle": "FireDefi"
+		},
+		
+		}
+	],
+	"explorer": "https://tronscan.io/#/token20/TAX69xqB7WbJj2co4njM1uMG1CWe4V3aDr",
+	"research": "https://firedefi.xyz/"
+}
